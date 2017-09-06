@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExpandableTextView</string>
+    <string name="default_collapsed_text">全文</string>
+    <string name="default_expanded_text">收缩</string>
+</resources>

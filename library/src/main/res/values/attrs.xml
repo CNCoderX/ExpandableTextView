@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ExpandableTextView">
+        <attr name="collapsed" format="boolean"/>
+        <attr name="visibleLines" format="integer"/>
+        <attr name="animDuration" format="integer"/>
+        <attr name="alwaysShowIndicator" format="boolean"/>
+    </declare-styleable>
+</resources>
